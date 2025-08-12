@@ -11,20 +11,8 @@ A specialized CRM system designed for freelancers and creative studios managing 
 - **Plugin System** - Extensible architecture for custom integrations
 - **Responsive Design** - Works seamlessly on desktop and mobile devices
 
-## Technology Stack
-
-- **Frontend**: React 19 + Vite
-- **UI Components**: Radix UI + Tailwind CSS
-- **Charts**: Recharts
-- **Routing**: React Router DOM
-- **Forms**: React Hook Form + Zod validation
-
 ## Getting Started
 
-### Prerequisites
-
-- Node.js 18+ 
-- pnpm (recommended) or npm
 
 ### Installation
 
